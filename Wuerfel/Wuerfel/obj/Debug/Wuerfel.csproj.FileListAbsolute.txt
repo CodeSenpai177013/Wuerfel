@@ -1,0 +1,20 @@
+C:\Users\S189869\source\repos\Wuerfel\Wuerfel\bin\Debug\Wuerfel.exe.config
+C:\Users\S189869\source\repos\Wuerfel\Wuerfel\bin\Debug\Wuerfel.exe
+C:\Users\S189869\source\repos\Wuerfel\Wuerfel\bin\Debug\Wuerfel.pdb
+C:\Users\S189869\source\repos\Wuerfel\Wuerfel\obj\Debug\Wuerfel.csprojAssemblyReference.cache
+C:\Users\S189869\source\repos\Wuerfel\Wuerfel\obj\Debug\Wuerfel.Properties.Resources.resources
+C:\Users\S189869\source\repos\Wuerfel\Wuerfel\obj\Debug\Wuerfel.Wuerfel.resources
+C:\Users\S189869\source\repos\Wuerfel\Wuerfel\obj\Debug\Wuerfel.csproj.GenerateResource.cache
+C:\Users\S189869\source\repos\Wuerfel\Wuerfel\obj\Debug\Wuerfel.csproj.CoreCompileInputs.cache
+C:\Users\S189869\source\repos\Wuerfel\Wuerfel\obj\Debug\Wuerfel.exe
+C:\Users\S189869\source\repos\Wuerfel\Wuerfel\obj\Debug\Wuerfel.pdb
+C:\Users\Admin\OneDrive\Desktop\Wuerfel (1)\Wuerfel\Wuerfel\bin\Debug\Wuerfel.exe.config
+C:\Users\Admin\OneDrive\Desktop\Wuerfel (1)\Wuerfel\Wuerfel\bin\Debug\Wuerfel.exe
+C:\Users\Admin\OneDrive\Desktop\Wuerfel (1)\Wuerfel\Wuerfel\bin\Debug\Wuerfel.pdb
+C:\Users\Admin\OneDrive\Desktop\Wuerfel (1)\Wuerfel\Wuerfel\obj\Debug\Wuerfel.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Wuerfel (1)\Wuerfel\Wuerfel\obj\Debug\Wuerfel.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\Wuerfel (1)\Wuerfel\Wuerfel\obj\Debug\Wuerfel.Wuerfel.resources
+C:\Users\Admin\OneDrive\Desktop\Wuerfel (1)\Wuerfel\Wuerfel\obj\Debug\Wuerfel.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\Wuerfel (1)\Wuerfel\Wuerfel\obj\Debug\Wuerfel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Wuerfel (1)\Wuerfel\Wuerfel\obj\Debug\Wuerfel.exe
+C:\Users\Admin\OneDrive\Desktop\Wuerfel (1)\Wuerfel\Wuerfel\obj\Debug\Wuerfel.pdb
